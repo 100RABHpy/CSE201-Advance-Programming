@@ -1,0 +1,3 @@
+[submodule "ColorSwitch"]
+	path = ColorSwitch
+	url = git@github.com:100RABHpy/ColorSwitch
